@@ -12,11 +12,11 @@
 
 1. Clone the repository with 
 ```
-git clone https://github.com/bmorris3/gp_interact.git
+git clone https://github.com/bmorris3/jax-code-coffe.git
 ```
 2. Change directories into the repo
 ```
-cd gp_interact
+cd jax-code-coffe
 ```
 3. Make sure you have the required packages installed
 ```
@@ -26,5 +26,3 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-
-`gp_interact` only requires python 3, numpy, matplotlib and scipy.
