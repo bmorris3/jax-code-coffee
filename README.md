@@ -12,11 +12,11 @@
 
 1. Clone the repository with 
 ```
-git clone https://github.com/bmorris3/jax-code-coffe.git
+git clone https://github.com/bmorris3/jax-code-coffee.git
 ```
 2. Change directories into the repo
 ```
-cd jax-code-coffe
+cd jax-code-coffee
 ```
 3. Make sure you have the required packages installed
 ```
