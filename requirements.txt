@@ -4,3 +4,4 @@ scipy
 jax[cpu]
 numpyro
 arviz
+corner
